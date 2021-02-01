@@ -1,0 +1,11 @@
+# Site settings
+title: "EXPLAIN"
+description: "Strathclyde Center for Doctoral Training in Explainable AI for Industrial Decision Support"
+baseurl: ""
+url: "https://strathclyde-artificial-intelligence.github.io" # the base hostname & protocol for your site
+
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
