@@ -1,4 +1,4 @@
-# explain
+# EXPLAIN @ STRATHCLYDE
 
 Strathclyde Centre for Doctoral Training in Explainable AI for Industrial Decision Support
 
